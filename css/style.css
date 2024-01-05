@@ -703,8 +703,10 @@ background-color: aquamarine;
   background-color: #0078ff;
 }
 
-
-
+.skill_style {
+ font-weight: bold;
+  color: white;
+}
 
 /*======================================
 //--//-->   SERVICES
