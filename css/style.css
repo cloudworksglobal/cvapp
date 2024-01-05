@@ -686,12 +686,14 @@ a:hover {
 
 .skill-mf span {
   color: #4e4e4e;
-      background-color: aquamarine;
+}
+
+.skill-mf {
+background-color: aquamarine;
     border-radius: 10 px;
     margin: 10 px;
     padding: 10 px;
 }
-
 .skill-mf .progress {
   background-color: #cde1f8;
   margin: .5rem 0 1.2rem 0;
