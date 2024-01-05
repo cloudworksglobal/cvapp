@@ -703,6 +703,12 @@ background-color: aquamarine;
   background-color: #0078ff;
 }
 
+skill-mf span {
+  color: white;
+  font-weight: strong;
+}
+
+
 /*======================================
 //--//-->   SERVICES
 ======================================*/
