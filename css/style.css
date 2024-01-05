@@ -136,8 +136,8 @@ a:hover {
 /*--/ Title s /--*/
 
 .title-s {
-  font-weight: 600;
-  color: #1e1e1e;
+   color: white;
+   font-weight: bold; 
   font-size: 1.1rem;
 }
 
